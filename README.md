@@ -1,18 +1,13 @@
-# 🧠 Agente IA – Premium Choice
-
-Análisis Exploratorio de Datos (EDA) y diagnóstico estratégico para el desarrollo de un agente de inteligencia artificial en la empresa Premium Choice.
-
+AI Agent – Premium Choice
+An Exploratory Data Analysis (EDA) and strategic diagnosis for the development of an artificial intelligence agent for the company Premium Choice.
 ---
 
-## 🎯 Objetivo del proyecto
+🎯 Project Objective
+The project begins with an advanced Exploratory Data Analysis (EDA) to identify critical points for operational and commercial improvement. This initial phase has the following purposes:
 
-El proyecto inicia con un análisis de datos avanzado (EDA) para identificar puntos críticos de mejora operativa y comercial. Esta fase tiene como propósito:
+Detect opportunities for automation.
 
-- Detectar oportunidades de automatización.
-- Identificar puntos de alto impacto para un futuro agente IA.
-- Entregar un informe ejecutivo estratégico a gerencia.
+Identify high-impact use-cases for a future AI agent.
 
----
-
-## 📁 Estructura del repositorio
+Deliver a strategic executive summary to management.
 
