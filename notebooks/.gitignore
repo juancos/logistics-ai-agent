@@ -1,0 +1,16 @@
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos pesados (si ya están en Drive)
+*.xlsx
+*.xls
+
+# Salidas no necesarias
+outputs/
